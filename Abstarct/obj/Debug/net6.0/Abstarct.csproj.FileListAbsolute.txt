@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\bin\Debug\net6.0\Abstarct.exe
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\bin\Debug\net6.0\Abstarct.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\bin\Debug\net6.0\Abstarct.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\bin\Debug\net6.0\Abstarct.dll
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\bin\Debug\net6.0\Abstarct.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.dll
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\refint\Abstarct.dll
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\Abstarct.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\Abstarct\obj\Debug\net6.0\ref\Abstarct.dll

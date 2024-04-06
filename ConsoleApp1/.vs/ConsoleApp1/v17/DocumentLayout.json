@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\interface\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:interface\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\interface\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:interface\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\interface\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:interface\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\interface\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:interface\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE3485-DF62-4230-B3BD-C9922C976230}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Models\\Calculate.cs",
+              "RelativeDocumentMoniker": "Models\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Models\\Calculate.cs",
+              "RelativeToolTip": "Models\\Calculate.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:57:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "Models\\Area.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Models\\Area.cs",
+              "RelativeToolTip": "Models\\Area.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:56:52.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IMultiply.cs",
+              "RelativeDocumentMoniker": "Interface\\IMultiply.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IMultiply.cs",
+              "RelativeToolTip": "Interface\\IMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:56:12.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IDivide.cs",
+              "RelativeDocumentMoniker": "Interface\\IDivide.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IDivide.cs",
+              "RelativeToolTip": "Interface\\IDivide.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:53:16.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDifference.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IDifference.cs",
+              "RelativeDocumentMoniker": "Interface\\IDifference.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IDifference.cs",
+              "RelativeToolTip": "Interface\\IDifference.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:52:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IAdd.cs",
+              "RelativeDocumentMoniker": "Interface\\IAdd.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Interface\\IAdd.cs",
+              "RelativeToolTip": "Interface\\IAdd.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:52:06.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:46:19.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
